@@ -1,0 +1,66 @@
+body{
+    background-image: url(./papel-velho-vintage-envelhecido-fundo-ou-textura_34266-482.webp);
+   
+
+
+  }
+
+  header{
+    padding-top: 10px;
+    margin: 0 auto;
+    width: 905px;
+
+
+  }
+  .mao-pena{
+    margin: 0 auto;
+    padding-left: 605px;
+    position: absolute;
+    
+ 
+   }
+  main{
+    width: 905px;
+    margin: 0 auto;
+    text-align: center;
+ 
+
+
+  }
+
+  h1{
+    font-family: 'Qwitcher Grypen', cursive;
+    text-align: center;
+    font-size: 100px;
+   
+  }
+  
+  
+  .entrar{
+   font-size: 70px;
+   color: black;
+   font-family: 'Qwitcher Grypen', cursive;
+   text-decoration: none;
+
+   
+  
+   
+    
+  }
+  .entrar:hover{
+    color: dimgray;
+    transition: 0.2s;
+  }
+  .samuel{
+    text-align: center;
+
+  }
+
+  .navio{
+    padding-left: 405px;
+    position: absolute;
+    
+
+  }
+  
+  
