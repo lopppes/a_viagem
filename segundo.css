@@ -10,7 +10,6 @@
       
 
     }
-    
   
   @media (max-width:1000px){
     h2{
@@ -36,15 +35,16 @@ h2{
    border-top: solid black 1px;
 }
 audio{
-    padding-bottom: 5px;
+    padding-bottom: 15px;
     filter: sepia(100%);
     padding-left: 20px;
     
+    
 
 }
+
 @media (max-width: 1000px){
   audio{
-  width: 100px;
   padding-left:2px ;
   padding-bottom: 5px;
   min-width: 320px;
@@ -56,7 +56,6 @@ audio{
   }
 
 }
-
 main{
     min-width: 320px;
     max-width: 905px;
