@@ -3,36 +3,22 @@ body{
    
 
 
-  }
+}
 
-  header{
-    padding-top: 10px;
-    margin: 0 auto;
-    width: 905px;
-
-
-  }
-  .mao-pena{
-    margin: 0 auto;
-    padding-left: 605px;
-    position: absolute;
-    
- 
-   }
-  main{
-    width: 905px;
-    margin: 0 auto;
-    text-align: center;
- 
-
-
-  }
 
   h1{
     font-family: 'Qwitcher Grypen', cursive;
-    text-align: center;
-    font-size: 100px;
+    font-size: 95px;
    
+  }
+  main{
+    min-width: 320px;
+    max-width: 905px;
+    text-align: center;
+    margin: 0 auto;
+ 
+
+
   }
   
   
@@ -51,14 +37,12 @@ body{
     color: dimgray;
     transition: 0.2s;
   }
-  .samuel{
-    text-align: center;
-
-  }
+  
 
   .navio{
-    padding-left: 405px;
-    position: absolute;
+    margin-right: 300px;
+    
+    
     
 
   }
